@@ -1,7 +1,7 @@
 <h1 align="center">This is, Andrew Kariuki</h1>
 
 <h5 align="center">Fullstack Developer and Cyber Security Enthusiast</h5>
-<h4 align="center">Do no harm!<h4/>
+<h4 align="center">Do no evil! Do no harm!<h4/>
 
 
 
