@@ -12,14 +12,8 @@
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="git" />&nbsp;&nbsp;	
 </p>	
-
-<p align="center"><img align="center" height="130px" src="https://github-readme-stats.vercel.app/api?username=andrewkariuki&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></p>
 <br/>
 <h4 align="center">Do no evil! Do no harm!<h4/>	
 <br/>
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=andrewkariuki&color=fb760b&label=Visitors" alt="js" />
-</p>
-
 <!-- ea6161,ffc64d,fffc4d,52fa5a -->
 <!-- background-image: linear-gradient(to left, #020f1f, #03101e, #04111e, #05121d, #07131c); -->
