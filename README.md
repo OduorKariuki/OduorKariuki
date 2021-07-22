@@ -12,8 +12,7 @@
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="git" />&nbsp;&nbsp;	
 </p>	
-<br/>
 <h4 align="center">Do no evil! Do no harm!<h4/>	
-<br/>
+
 <!-- ea6161,ffc64d,fffc4d,52fa5a -->
 <!-- background-image: linear-gradient(to left, #020f1f, #03101e, #04111e, #05121d, #07131c); -->
