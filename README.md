@@ -1,4 +1,4 @@
-<h2 align="center">"Do or do not. There is no try"</h2>
+<h2 align="center"><strong>"Do or do not. There is no try"</strong></h2>
 
 <h6 align="center">Fullstack Developer and Cyber Security Enthusiast</h6>
 
