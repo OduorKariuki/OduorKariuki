@@ -1,6 +1,6 @@
 <h2 align="center"><strong>"Do or do not. There is no try"</strong></h2>
 
-<h6 align="center">Fullstack Developer and Cyber Security Enthusiast</h6>
+<h6 align="center">Fullstack Software Developer and Cyber Security Enthusiast</h6>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="js" />&nbsp;&nbsp;
