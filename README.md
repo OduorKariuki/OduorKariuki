@@ -3,7 +3,6 @@
 <h6 align="center">Fullstack Software Developer and Cyber Security Enthusiast</h6>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="js" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="js" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="react" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="python" />&nbsp;&nbsp;
