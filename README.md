@@ -3,12 +3,13 @@
 <h6 align="center">Fullstack Software Developer and Cyber Security Enthusiast</h6>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="js" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=Node.JS&logoColor=white" alt="Node.JS" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="react" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="python" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="mongo" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongo" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="git" />&nbsp;&nbsp;	
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;	
 </p>	
 <h5 align="center"><i>Do no evil! Do no harm!</i><h5/>	
 
