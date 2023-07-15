@@ -1,6 +1,6 @@
 <h2 align="center"><strong>"Do…or do not. There is no try!"</strong></h2>
 
-<h6 align="center">Systems engineer expertise: </h6>
+<h6 align="center">Systems engineer with expertise in: </h6>
 
 
 <p align="center">
