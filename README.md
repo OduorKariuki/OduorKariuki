@@ -1,6 +1,6 @@
 <h2 align="center"><strong>"Do…or do not. There is no try!"</strong></h2>
 
-<h6 align="center">Fullstack Software Developer. Cyber Security Enthusiast.</h6>
+<h6 align="center">Systems Engineer. Security Enthusiast.</h6>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
