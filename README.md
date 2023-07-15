@@ -1,6 +1,6 @@
 <h2 align="center"><strong>"Do…or do not. There is no try!"</strong></h2>
 
-<h6 align="center">Systems engineer expertise in Python, JavaScript, TypeScript, and SQL. <br/> Currently expanding skills in Golang, DevOps, and Systems Security and Forensics. <br/> City dweller passionate about travel and adventure. Thrives on connecting with new people, problem-solving, and driving business growth.</h6>
+<h6 align="center">Systems engineer expertise in Python, JavaScript, TypeScript, and SQL. <br/> Currently expanding skills in Golang, DevOps, and Systems Security and Forensics. <br/> City dweller passionate about travel and adventure. <br/> Thrives on connecting with new people, problem-solving, and driving business growth.</h6>
 
 
 <p align="center">
