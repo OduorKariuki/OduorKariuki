@@ -1,6 +1,6 @@
 <h2 align="center"><strong>"Do…or do not. There is no try!"</strong></h2>
 
-<h6 align="center">Systems engineer with expertise in: </h6>
+<h5 align="center">Systems engineer with expertise in: </h5>
 
 
 <p align="center">
@@ -10,7 +10,7 @@
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;	
 </p>	
-<h5 align="center"><i>Do no evil! Do no harm!</i><h5/>	
+<!-- <h5 align="center"><i>Do no evil! Do no harm!</i><h5/>	 -->
 
 <!-- ea6161,ffc64d,fffc4d,52fa5a -->
 <!-- background-image: linear-gradient(to left, #020f1f, #03101e, #04111e, #05121d, #07131c); -->
