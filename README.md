@@ -1,4 +1,4 @@
 <p align="center">========================================</p>
-<h3 align="center">Systems Architect</h3>
-<p align="center">Python | TypeScript | Go | Rust</p>
+<h3 align="center">System Architect</h3>
+<p align="center">Software | DevOps | Networks</p>
 <p align="center">========================================</p>
