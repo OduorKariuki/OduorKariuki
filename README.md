@@ -1,9 +1,9 @@
 <h3 align="center">👋 Hi, I'm Kariuki</h3>
 
 <p align="center">
-  <p>Software</P> •
-  <p>DevOps</p> •
-  <p>Networks</p>
+  <span>Software</span> •
+  <span>DevOps</span> •
+  <span>Networks</span>
 </p>
 
 <div style="display: inline_block" align="center">
