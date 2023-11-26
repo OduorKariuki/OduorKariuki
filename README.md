@@ -14,6 +14,6 @@
 
 ---
 
-I'm a IT & Systems Engineer at [WIOCC](https://www.wiocc.net) working on DevOps experiences with [Docker](https://docker.com), [Azure Pipelines](https://azure.com) and [Azure VMs](https://azure.com).
+I am an IT and Systems Engineer employed at [WIOCC](https://www.wiocc.net), where I focus on enhancing DevOps practices utilizing tools such as [Docker](https://www.docker.com), [Azure Pipelines](https://www.azure.com), and [Azure VMs](https://www.azure.com).
 
-Currently learning Systems Security and Forensics to improve integration and contribute end-to-end to software and systems security.
+I am presently expanding my knowledge in Systems Security and Forensics to enhance integration efforts and actively contribute to the overall security of software and systems.
