@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I am Kariuki</h3>
+<h3 align="center">👋 Hi, I am Kariuki Oduor</h3>
 
 <p align="center">
   <span>Software</span> •
@@ -15,6 +15,4 @@
 
 ---
 
-I work as an IT and Systems Engineer at [WIOCC](https://www.wiocc.net), concentrating on refining DevOps methodologies, employing [Docker](https://www.docker.com), [Kubernetes](https://kubernetes.io), [Azure Pipelines](https://www.azure.com), and [Azure VMs](https://www.azure.com).
-
-Currently, I am expanding my knowledge of Systems Security and Forensics to improve integration and enhance software and systems security.
+Experienced systems engineer with expertise in software design, architecture, development, and security. Focused on DevSecOps practices. Let's connect for innovative opportunities!
