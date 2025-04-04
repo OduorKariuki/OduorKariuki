@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I am Kariuki Oduor</h3>
+<h3 align="center">👋 Hi, I am Oduor Kariuki</h3>
 
 <p align="center">
   <span>Software</span> •
